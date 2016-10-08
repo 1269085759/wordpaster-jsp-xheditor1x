@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="WordPaster2Xheditor1x"
+  id="myeclipse.1379833294611"
+  context-root="/WordPasterXheditor1x"
+  j2ee-spec="5.0"
+  archive="WordPaster2Xheditor1x.war">
+  <attributes>
+    <attribute name="webrootdir" value="/WebRoot" />
+  </attributes>
+</project-module>
+
